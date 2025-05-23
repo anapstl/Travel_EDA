@@ -5,7 +5,7 @@ Proyecto de análisis de datos sobre la evolución de los viajes en el contexto 
 
 La pandemia de la COVID-19 cambió radicalmente nuestras vidas y también nuestras ganas de movernos. Durante meses, las restricciones sanitarias mantuvieron a mucha gente en casa. Pero, ¿qué pasó cuando volvimos a salir? ¿Viajamos más? ¿Lo hicimos de forma diferente? ¿Hemos recuperado nuestro espíritu viajero?
 
-Este proyecto de análisis exploratorio de datos (EDA) nace con la intención de entender cómo ha cambiado el comportamiento de los viajeros en España desde que comenzó la pandemia. Para ello, utilizaremos datos oficiales procedentes de fuentes como la Encuesta de Turismo de Residentes (ETR) y FRONTUR, con los que analizaremos las tendencias antes y después del año 2020.
+Este proyecto de análisis exploratorio de datos (EDA) nace con la intención de entender cómo ha cambiado el comportamiento de los viajeros en España desde que comenzó la pandemia. Para ello, utilizaremos datos oficiales procedentes de fuentes como la Encuesta de Turismo de Residentes (ETR) y Estadística de Movimientos Turísticos en Fronteras (FRONTUR), con los que analizaremos las tendencias antes y después del año 2020.
 
 Nos planteamos las siguientes preguntas clave:
 
