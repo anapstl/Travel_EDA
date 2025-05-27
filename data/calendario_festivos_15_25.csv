@@ -65,7 +65,7 @@
 63,5,Agosto,2019,Virgen Blanca,Alava,Pais Vasco,local
 64,15,Agosto,2019,Asunción de la Virgen,Alava,Pais Vasco,nacional
 65,12,Octubre,2019,Fiesta Nacional Española,Alava,Pais Vasco,nacional
-66,1,Noviembre,2019,,Alava,Pais Vasco,nacional
+66,1,Noviembre,2019,Día de Todos los Santos,Alava,Pais Vasco,nacional
 67,6,Diciembre,2019,Día de la Constitución Española,Alava,Pais Vasco,nacional
 68,25,Diciembre,2019,Natividad del Señor,Alava,Pais Vasco,nacional
 69,1,Enero,2020,Año nuevo,Alava,Pais Vasco,nacional
@@ -219,7 +219,7 @@
 217,15,Agosto,2019,Asunción de la Virgen,Albacete,Castilla-La Mancha,nacional
 218,8,Septiembre,2019,Virgen de los Llanos(se traslada al lunes),Albacete,Castilla-La Mancha,local
 219,12,Octubre,2019,Fiesta Nacional Española,Albacete,Castilla-La Mancha,nacional
-220,1,Noviembre,2019,,Albacete,Castilla-La Mancha,nacional
+220,1,Noviembre,2019,Día de Todos los Santos,Albacete,Castilla-La Mancha,nacional
 221,6,Diciembre,2019,Día de la Constitución Española,Albacete,Castilla-La Mancha,nacional
 222,25,Diciembre,2019,Natividad del Señor,Albacete,Castilla-La Mancha,nacional
 223,1,Enero,2020,Año nuevo,Albacete,Castilla-La Mancha,nacional
@@ -374,7 +374,7 @@
 372,15,Agosto,2019,Asunción de la Virgen,Alicante,Comunidad Valenciana,nacional
 373,9,Octubre,2019,Día de la Comunitat Valenciana,Alicante,Comunidad Valenciana,regional
 374,12,Octubre,2019,Fiesta Nacional Española,Alicante,Comunidad Valenciana,nacional
-375,1,Noviembre,2019,,Alicante,Comunidad Valenciana,nacional
+375,1,Noviembre,2019,Día de Todos los Santos,Alicante,Comunidad Valenciana,nacional
 376,6,Diciembre,2019,Día de la Constitución Española,Alicante,Comunidad Valenciana,nacional
 377,25,Diciembre,2019,Natividad del Señor,Alicante,Comunidad Valenciana,nacional
 378,1,Enero,2020,Año nuevo,Alicante,Comunidad Valenciana,nacional
@@ -527,7 +527,7 @@
 525,15,Agosto,2019,Asunción de la Virgen,Almeria,Andalucia,nacional
 526,24,Agosto,2019,Virgen del Mar,Almeria,Andalucia,local
 527,12,Octubre,2019,Fiesta Nacional Española,Almeria,Andalucia,nacional
-528,1,Noviembre,2019,,Almeria,Andalucia,nacional
+528,1,Noviembre,2019,Día de Todos los Santos,Almeria,Andalucia,nacional
 529,6,Diciembre,2019,Día de la Constitución Española,Almeria,Andalucia,nacional
 530,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Almeria,Andalucia,regional
 531,25,Diciembre,2019,Natividad del Señor,Almeria,Andalucia,nacional
@@ -674,7 +674,7 @@
 672,15,Agosto,2019,Asunción de la Virgen,Asturias,Principado de Asturias,nacional
 673,8,Septiembre,2019,Día de Asturias(se traslada al lunes),Asturias,Principado de Asturias,regional
 674,12,Octubre,2019,Fiesta Nacional Española,Asturias,Principado de Asturias,nacional
-675,1,Noviembre,2019,,Asturias,Principado de Asturias,nacional
+675,1,Noviembre,2019,Día de Todos los Santos,Asturias,Principado de Asturias,nacional
 676,6,Diciembre,2019,Día de la Constitución Española,Asturias,Principado de Asturias,nacional
 677,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Asturias,Principado de Asturias,regional
 678,25,Diciembre,2019,Natividad del Señor,Asturias,Principado de Asturias,nacional
@@ -820,7 +820,7 @@
 818,15,Agosto,2019,Asunción de la Virgen,Avila,Castilla y Leon,nacional
 819,12,Octubre,2019,Fiesta Nacional Española,Avila,Castilla y Leon,nacional
 820,15,Octubre,2019,Santa Teresa de Jesús,Avila,Castilla y Leon,local
-821,1,Noviembre,2019,,Avila,Castilla y Leon,nacional
+821,1,Noviembre,2019,Día de Todos los Santos,Avila,Castilla y Leon,nacional
 822,6,Diciembre,2019,Día de la Constitución Española,Avila,Castilla y Leon,nacional
 823,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Avila,Castilla y Leon,regional
 824,25,Diciembre,2019,Natividad del Señor,Avila,Castilla y Leon,nacional
@@ -973,7 +973,7 @@
 971,15,Agosto,2019,Asunción de la Virgen,Badajoz,Extremadura,nacional
 972,8,Septiembre,2019,Día de Extremadura(se traslada al lunes),Badajoz,Extremadura,regional
 973,12,Octubre,2019,Fiesta Nacional Española,Badajoz,Extremadura,nacional
-974,1,Noviembre,2019,,Badajoz,Extremadura,nacional
+974,1,Noviembre,2019,Día de Todos los Santos,Badajoz,Extremadura,nacional
 975,6,Diciembre,2019,Día de la Constitución Española,Badajoz,Extremadura,nacional
 976,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Badajoz,Extremadura,regional
 977,25,Diciembre,2019,Natividad del Señor,Badajoz,Extremadura,nacional
@@ -1128,7 +1128,7 @@
 1126,11,Septiembre,2019,Diada de Cataluña,Barcelona,Cataluna,regional
 1127,24,Septiembre,2019,La Mercè,Barcelona,Cataluna,local
 1128,12,Octubre,2019,Fiesta Nacional Española,Barcelona,Cataluna,nacional
-1129,1,Noviembre,2019,,Barcelona,Cataluna,nacional
+1129,1,Noviembre,2019,Día de Todos los Santos,Barcelona,Cataluna,nacional
 1130,6,Diciembre,2019,Día de la Constitución Española,Barcelona,Cataluna,nacional
 1131,25,Diciembre,2019,Natividad del Señor,Barcelona,Cataluna,nacional
 1132,26,Diciembre,2019,Sant Esteve,Barcelona,Cataluna,regional
@@ -1285,7 +1285,7 @@
 1283,29,Junio,2019,San Pedro,Burgos,Castilla y Leon,local
 1284,15,Agosto,2019,Asunción de la Virgen,Burgos,Castilla y Leon,nacional
 1285,12,Octubre,2019,Fiesta Nacional Española,Burgos,Castilla y Leon,nacional
-1286,1,Noviembre,2019,,Burgos,Castilla y Leon,nacional
+1286,1,Noviembre,2019,Día de Todos los Santos,Burgos,Castilla y Leon,nacional
 1287,6,Diciembre,2019,Día de la Constitución Española,Burgos,Castilla y Leon,nacional
 1288,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Burgos,Castilla y Leon,regional
 1289,25,Diciembre,2019,Natividad del Señor,Burgos,Castilla y Leon,nacional
@@ -1439,7 +1439,7 @@
 1437,15,Agosto,2019,Asunción de la Virgen,Caceres,Extremadura,nacional
 1438,8,Septiembre,2019,Día de Extremadura(se traslada al lunes),Caceres,Extremadura,regional
 1439,12,Octubre,2019,Fiesta Nacional Española,Caceres,Extremadura,nacional
-1440,1,Noviembre,2019,,Caceres,Extremadura,nacional
+1440,1,Noviembre,2019,Día de Todos los Santos,Caceres,Extremadura,nacional
 1441,6,Diciembre,2019,Día de la Constitución Española,Caceres,Extremadura,nacional
 1442,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Caceres,Extremadura,regional
 1443,25,Diciembre,2019,Natividad del Señor,Caceres,Extremadura,nacional
@@ -1593,7 +1593,7 @@
 1591,15,Agosto,2019,Asunción de la Virgen,Cadiz,Andalucia,nacional
 1592,7,Octubre,2019,Virgen del Rosario,Cadiz,Andalucia,local
 1593,12,Octubre,2019,Fiesta Nacional Española,Cadiz,Andalucia,nacional
-1594,1,Noviembre,2019,,Cadiz,Andalucia,nacional
+1594,1,Noviembre,2019,Día de Todos los Santos,Cadiz,Andalucia,nacional
 1595,6,Diciembre,2019,Día de la Constitución Española,Cadiz,Andalucia,nacional
 1596,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Cadiz,Andalucia,regional
 1597,25,Diciembre,2019,Natividad del Señor,Cadiz,Andalucia,nacional
@@ -1738,7 +1738,7 @@
 1736,25,Julio,2019,Santiago Apóstol,Cantabria,Cantabria,regional
 1737,15,Agosto,2019,Asunción de la Virgen,Cantabria,Cantabria,nacional
 1738,12,Octubre,2019,Fiesta Nacional Española,Cantabria,Cantabria,nacional
-1739,1,Noviembre,2019,,Cantabria,Cantabria,nacional
+1739,1,Noviembre,2019,Día de Todos los Santos,Cantabria,Cantabria,nacional
 1740,6,Diciembre,2019,Día de la Constitución Española,Cantabria,Cantabria,nacional
 1741,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Cantabria,Cantabria,regional
 1742,25,Diciembre,2019,Natividad del Señor,Cantabria,Cantabria,nacional
@@ -1886,7 +1886,7 @@
 1884,15,Agosto,2019,Asunción de la Virgen,Castellon,Comunidad Valenciana,nacional
 1885,9,Octubre,2019,Día de la Comunitat Valenciana,Castellon,Comunidad Valenciana,regional
 1886,12,Octubre,2019,Fiesta Nacional Española,Castellon,Comunidad Valenciana,nacional
-1887,1,Noviembre,2019,,Castellon,Comunidad Valenciana,nacional
+1887,1,Noviembre,2019,Día de Todos los Santos,Castellon,Comunidad Valenciana,nacional
 1888,6,Diciembre,2019,Día de la Constitución Española,Castellon,Comunidad Valenciana,nacional
 1889,25,Diciembre,2019,Natividad del Señor,Castellon,Comunidad Valenciana,nacional
 1890,1,Enero,2020,Año nuevo,Castellon,Comunidad Valenciana,nacional
@@ -2039,7 +2039,7 @@
 2037,8,Septiembre,2019,Virgen de Guadalupe(se traslada al lunes),Cordoba,Andalucia,local
 2038,12,Octubre,2019,Fiesta Nacional Española,Cordoba,Andalucia,nacional
 2039,24,Octubre,2019,San Rafael,Cordoba,Andalucia,local
-2040,1,Noviembre,2019,,Cordoba,Andalucia,nacional
+2040,1,Noviembre,2019,Día de Todos los Santos,Cordoba,Andalucia,nacional
 2041,6,Diciembre,2019,Día de la Constitución Española,Cordoba,Andalucia,nacional
 2042,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Cordoba,Andalucia,regional
 2043,25,Diciembre,2019,Natividad del Señor,Cordoba,Andalucia,nacional
@@ -2195,7 +2195,7 @@
 2193,20,Junio,2019,Corpus Christi,Cuenca,Castilla-La Mancha,regional
 2194,15,Agosto,2019,Asunción de la Virgen,Cuenca,Castilla-La Mancha,nacional
 2195,12,Octubre,2019,Fiesta Nacional Española,Cuenca,Castilla-La Mancha,nacional
-2196,1,Noviembre,2019,,Cuenca,Castilla-La Mancha,nacional
+2196,1,Noviembre,2019,Día de Todos los Santos,Cuenca,Castilla-La Mancha,nacional
 2197,6,Diciembre,2019,Día de la Constitución Española,Cuenca,Castilla-La Mancha,nacional
 2198,25,Diciembre,2019,Natividad del Señor,Cuenca,Castilla-La Mancha,nacional
 2199,1,Enero,2020,Año nuevo,Cuenca,Castilla-La Mancha,nacional
@@ -2348,7 +2348,7 @@
 2346,20,Junio,2019,Corpus Christi,Granada,Andalucia,local
 2347,15,Agosto,2019,Asunción de la Virgen,Granada,Andalucia,nacional
 2348,12,Octubre,2019,Fiesta Nacional Española,Granada,Andalucia,nacional
-2349,1,Noviembre,2019,,Granada,Andalucia,nacional
+2349,1,Noviembre,2019,Día de Todos los Santos,Granada,Andalucia,nacional
 2350,6,Diciembre,2019,Día de la Constitución Española,Granada,Andalucia,nacional
 2351,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Granada,Andalucia,regional
 2352,25,Diciembre,2019,Natividad del Señor,Granada,Andalucia,nacional
@@ -2504,7 +2504,7 @@
 2502,12,Septiembre,2019,Jueves de Feria,Guadalajara,Castilla-La Mancha,local
 2503,13,Septiembre,2019,Viernes de Feria,Guadalajara,Castilla-La Mancha,local
 2504,12,Octubre,2019,Fiesta Nacional Española,Guadalajara,Castilla-La Mancha,nacional
-2505,1,Noviembre,2019,,Guadalajara,Castilla-La Mancha,nacional
+2505,1,Noviembre,2019,Día de Todos los Santos,Guadalajara,Castilla-La Mancha,nacional
 2506,6,Diciembre,2019,Día de la Constitución Española,Guadalajara,Castilla-La Mancha,nacional
 2507,25,Diciembre,2019,Natividad del Señor,Guadalajara,Castilla-La Mancha,nacional
 2508,1,Enero,2020,Año nuevo,Guadalajara,Castilla-La Mancha,nacional
@@ -2657,7 +2657,7 @@
 2655,31,Julio,2019,San Ignacio de Loyola,Guipuzcoa,Pais Vasco,local
 2656,15,Agosto,2019,Asunción de la Virgen,Guipuzcoa,Pais Vasco,nacional
 2657,12,Octubre,2019,Fiesta Nacional Española,Guipuzcoa,Pais Vasco,nacional
-2658,1,Noviembre,2019,,Guipuzcoa,Pais Vasco,nacional
+2658,1,Noviembre,2019,Día de Todos los Santos,Guipuzcoa,Pais Vasco,nacional
 2659,6,Diciembre,2019,Día de la Constitución Española,Guipuzcoa,Pais Vasco,nacional
 2660,25,Diciembre,2019,Natividad del Señor,Guipuzcoa,Pais Vasco,nacional
 2661,1,Enero,2020,Año nuevo,Guipuzcoa,Pais Vasco,nacional
@@ -2810,7 +2810,7 @@
 2808,15,Agosto,2019,Asunción de la Virgen,Huelva,Andalucia,nacional
 2809,8,Septiembre,2019,Nuestra Señora de la Cinta(se traslada al lunes),Huelva,Andalucia,local
 2810,12,Octubre,2019,Fiesta Nacional Española,Huelva,Andalucia,nacional
-2811,1,Noviembre,2019,,Huelva,Andalucia,nacional
+2811,1,Noviembre,2019,Día de Todos los Santos,Huelva,Andalucia,nacional
 2812,6,Diciembre,2019,Día de la Constitución Española,Huelva,Andalucia,nacional
 2813,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Huelva,Andalucia,regional
 2814,25,Diciembre,2019,Natividad del Señor,Huelva,Andalucia,nacional
@@ -2965,7 +2965,7 @@
 2963,10,Agosto,2019,San Lorenzo,Huesca,Aragon,local
 2964,15,Agosto,2019,Asunción de la Virgen,Huesca,Aragon,nacional
 2965,12,Octubre,2019,Fiesta Nacional Española,Huesca,Aragon,nacional
-2966,1,Noviembre,2019,,Huesca,Aragon,nacional
+2966,1,Noviembre,2019,Día de Todos los Santos,Huesca,Aragon,nacional
 2967,6,Diciembre,2019,Día de la Constitución Española,Huesca,Aragon,nacional
 2968,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Huesca,Aragon,regional
 2969,25,Diciembre,2019,Natividad del Señor,Huesca,Aragon,nacional
@@ -3119,7 +3119,7 @@
 3117,15,Agosto,2019,Asunción de la Virgen,Jaen,Andalucia,nacional
 3118,12,Octubre,2019,Fiesta Nacional Española,Jaen,Andalucia,nacional
 3119,18,Octubre,2019,San Lucas,Jaen,Andalucia,local
-3120,1,Noviembre,2019,,Jaen,Andalucia,nacional
+3120,1,Noviembre,2019,Día de Todos los Santos,Jaen,Andalucia,nacional
 3121,6,Diciembre,2019,Día de la Constitución Española,Jaen,Andalucia,nacional
 3122,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Jaen,Andalucia,regional
 3123,25,Diciembre,2019,Natividad del Señor,Jaen,Andalucia,nacional
@@ -3274,7 +3274,7 @@
 3272,15,Agosto,2019,Asunción de la Virgen,Leon,Castilla y Leon,nacional
 3273,5,Octubre,2019,San Froilán,Leon,Castilla y Leon,local
 3274,12,Octubre,2019,Fiesta Nacional Española,Leon,Castilla y Leon,nacional
-3275,1,Noviembre,2019,,Leon,Castilla y Leon,nacional
+3275,1,Noviembre,2019,Día de Todos los Santos,Leon,Castilla y Leon,nacional
 3276,6,Diciembre,2019,Día de la Constitución Española,Leon,Castilla y Leon,nacional
 3277,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Leon,Castilla y Leon,regional
 3278,25,Diciembre,2019,Natividad del Señor,Leon,Castilla y Leon,nacional
@@ -3430,7 +3430,7 @@
 3428,15,Agosto,2019,Asunción de la Virgen,Lugo,Galicia,nacional
 3429,5,Octubre,2019,San Froilán,Lugo,Galicia,local
 3430,12,Octubre,2019,Fiesta Nacional Española,Lugo,Galicia,nacional
-3431,1,Noviembre,2019,,Lugo,Galicia,nacional
+3431,1,Noviembre,2019,Día de Todos los Santos,Lugo,Galicia,nacional
 3432,6,Diciembre,2019,Día de la Constitución Española,Lugo,Galicia,nacional
 3433,25,Diciembre,2019,Natividad del Señor,Lugo,Galicia,nacional
 3434,1,Enero,2020,Año nuevo,Lugo,Galicia,nacional
@@ -3583,7 +3583,7 @@
 3581,15,Mayo,2019,San Isidro,Madrid,Comunidad de Madrid,local
 3582,15,Agosto,2019,Asunción de la Virgen,Madrid,Comunidad de Madrid,nacional
 3583,12,Octubre,2019,Fiesta Nacional Española,Madrid,Comunidad de Madrid,nacional
-3584,1,Noviembre,2019,,Madrid,Comunidad de Madrid,nacional
+3584,1,Noviembre,2019,Día de Todos los Santos,Madrid,Comunidad de Madrid,nacional
 3585,9,Noviembre,2019,Nuestra Señora de la Almudena,Madrid,Comunidad de Madrid,local
 3586,6,Diciembre,2019,Día de la Constitución Española,Madrid,Comunidad de Madrid,nacional
 3587,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Madrid,Comunidad de Madrid,regional
@@ -3738,7 +3738,7 @@
 3736,19,Agosto,2019,Toma de Málaga por los Reyes Católicos,Malaga,Andalucia,local
 3737,8,Septiembre,2019,Virgen de la Victoria(se traslada al lunes),Malaga,Andalucia,local
 3738,12,Octubre,2019,Fiesta Nacional Española,Malaga,Andalucia,nacional
-3739,1,Noviembre,2019,,Malaga,Andalucia,nacional
+3739,1,Noviembre,2019,Día de Todos los Santos,Malaga,Andalucia,nacional
 3740,6,Diciembre,2019,Día de la Constitución Española,Malaga,Andalucia,nacional
 3741,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Malaga,Andalucia,regional
 3742,25,Diciembre,2019,Natividad del Señor,Malaga,Andalucia,nacional
@@ -3895,7 +3895,7 @@
 3893,15,Agosto,2019,Asunción de la Virgen,Murcia,Region de Murcia,nacional
 3894,17,Septiembre,2019,Romería de la Fuensanta,Murcia,Region de Murcia,local
 3895,12,Octubre,2019,Fiesta Nacional Española,Murcia,Region de Murcia,nacional
-3896,1,Noviembre,2019,,Murcia,Region de Murcia,nacional
+3896,1,Noviembre,2019,Día de Todos los Santos,Murcia,Region de Murcia,nacional
 3897,6,Diciembre,2019,Día de la Constitución Española,Murcia,Region de Murcia,nacional
 3898,25,Diciembre,2019,Natividad del Señor,Murcia,Region de Murcia,nacional
 3899,1,Enero,2020,Año nuevo,Murcia,Region de Murcia,nacional
@@ -4043,7 +4043,7 @@
 4041,1,Mayo,2019,Fiesta del Trabajo,Navarra,Comunidad Foral de Navarra,nacional
 4042,15,Agosto,2019,Asunción de la Virgen,Navarra,Comunidad Foral de Navarra,nacional
 4043,12,Octubre,2019,Fiesta Nacional Española,Navarra,Comunidad Foral de Navarra,nacional
-4044,1,Noviembre,2019,,Navarra,Comunidad Foral de Navarra,nacional
+4044,1,Noviembre,2019,Día de Todos los Santos,Navarra,Comunidad Foral de Navarra,nacional
 4045,3,Diciembre,2019,San Francisco Javier,Navarra,Comunidad Foral de Navarra,local
 4046,6,Diciembre,2019,Día de la Constitución Española,Navarra,Comunidad Foral de Navarra,nacional
 4047,25,Diciembre,2019,Natividad del Señor,Navarra,Comunidad Foral de Navarra,nacional
@@ -4191,7 +4191,7 @@
 4189,15,Agosto,2019,Asunción de la Virgen,Palencia,Castilla y Leon,nacional
 4190,2,Septiembre,2019,San Antolín,Palencia,Castilla y Leon,local
 4191,12,Octubre,2019,Fiesta Nacional Española,Palencia,Castilla y Leon,nacional
-4192,1,Noviembre,2019,,Palencia,Castilla y Leon,nacional
+4192,1,Noviembre,2019,Día de Todos los Santos,Palencia,Castilla y Leon,nacional
 4193,6,Diciembre,2019,Día de la Constitución Española,Palencia,Castilla y Leon,nacional
 4194,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Palencia,Castilla y Leon,regional
 4195,25,Diciembre,2019,Natividad del Señor,Palencia,Castilla y Leon,nacional
@@ -4347,7 +4347,7 @@
 4345,25,Julio,2019,Día Nacional de Galicia,Pontevedra,Galicia,regional
 4346,15,Agosto,2019,Asunción de la Virgen,Pontevedra,Galicia,nacional
 4347,12,Octubre,2019,Fiesta Nacional Española,Pontevedra,Galicia,nacional
-4348,1,Noviembre,2019,,Pontevedra,Galicia,nacional
+4348,1,Noviembre,2019,Día de Todos los Santos,Pontevedra,Galicia,nacional
 4349,6,Diciembre,2019,Día de la Constitución Española,Pontevedra,Galicia,nacional
 4350,25,Diciembre,2019,Natividad del Señor,Pontevedra,Galicia,nacional
 4351,1,Enero,2020,Año nuevo,Pontevedra,Galicia,nacional
@@ -4499,7 +4499,7 @@
 4497,15,Agosto,2019,Asunción de la Virgen,Salamanca,Castilla y Leon,nacional
 4498,8,Septiembre,2019,Virgen de la Vega(se traslada al lunes),Salamanca,Castilla y Leon,local
 4499,12,Octubre,2019,Fiesta Nacional Española,Salamanca,Castilla y Leon,nacional
-4500,1,Noviembre,2019,,Salamanca,Castilla y Leon,nacional
+4500,1,Noviembre,2019,Día de Todos los Santos,Salamanca,Castilla y Leon,nacional
 4501,6,Diciembre,2019,Día de la Constitución Española,Salamanca,Castilla y Leon,nacional
 4502,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Salamanca,Castilla y Leon,regional
 4503,25,Diciembre,2019,Natividad del Señor,Salamanca,Castilla y Leon,nacional
@@ -4653,7 +4653,7 @@
 4651,15,Agosto,2019,Asunción de la Virgen,Segovia,Castilla y Leon,nacional
 4652,12,Octubre,2019,Fiesta Nacional Española,Segovia,Castilla y Leon,nacional
 4653,25,Octubre,2019,San Frutos,Segovia,Castilla y Leon,local
-4654,1,Noviembre,2019,,Segovia,Castilla y Leon,nacional
+4654,1,Noviembre,2019,Día de Todos los Santos,Segovia,Castilla y Leon,nacional
 4655,6,Diciembre,2019,Día de la Constitución Española,Segovia,Castilla y Leon,nacional
 4656,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Segovia,Castilla y Leon,regional
 4657,25,Diciembre,2019,Natividad del Señor,Segovia,Castilla y Leon,nacional
@@ -4807,7 +4807,7 @@
 4805,20,Junio,2019,Corpus Christi,Sevilla,Andalucia,local
 4806,15,Agosto,2019,Asunción de la Virgen,Sevilla,Andalucia,nacional
 4807,12,Octubre,2019,Fiesta Nacional Española,Sevilla,Andalucia,nacional
-4808,1,Noviembre,2019,,Sevilla,Andalucia,nacional
+4808,1,Noviembre,2019,Día de Todos los Santos,Sevilla,Andalucia,nacional
 4809,6,Diciembre,2019,Día de la Constitución Española,Sevilla,Andalucia,nacional
 4810,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Sevilla,Andalucia,regional
 4811,25,Diciembre,2019,Natividad del Señor,Sevilla,Andalucia,nacional
@@ -4962,7 +4962,7 @@
 4960,15,Agosto,2019,Asunción de la Virgen,Soria,Castilla y Leon,nacional
 4961,2,Octubre,2019,San Saturio,Soria,Castilla y Leon,local
 4962,12,Octubre,2019,Fiesta Nacional Española,Soria,Castilla y Leon,nacional
-4963,1,Noviembre,2019,,Soria,Castilla y Leon,nacional
+4963,1,Noviembre,2019,Día de Todos los Santos,Soria,Castilla y Leon,nacional
 4964,6,Diciembre,2019,Día de la Constitución Española,Soria,Castilla y Leon,nacional
 4965,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Soria,Castilla y Leon,regional
 4966,25,Diciembre,2019,Natividad del Señor,Soria,Castilla y Leon,nacional
@@ -5117,7 +5117,7 @@
 5115,11,Septiembre,2019,Diada de Cataluña,Tarragona,Cataluna,regional
 5116,23,Septiembre,2019,Santa Tecla,Tarragona,Cataluna,local
 5117,12,Octubre,2019,Fiesta Nacional Española,Tarragona,Cataluna,nacional
-5118,1,Noviembre,2019,,Tarragona,Cataluna,nacional
+5118,1,Noviembre,2019,Día de Todos los Santos,Tarragona,Cataluna,nacional
 5119,6,Diciembre,2019,Día de la Constitución Española,Tarragona,Cataluna,nacional
 5120,25,Diciembre,2019,Natividad del Señor,Tarragona,Cataluna,nacional
 5121,26,Diciembre,2019,Sant Esteve,Tarragona,Cataluna,regional
@@ -5274,7 +5274,7 @@
 5272,8,Julio,2019,Vaquilla de Ángel,Teruel,Aragon,local
 5273,15,Agosto,2019,Asunción de la Virgen,Teruel,Aragon,nacional
 5274,12,Octubre,2019,Fiesta Nacional Española,Teruel,Aragon,nacional
-5275,1,Noviembre,2019,,Teruel,Aragon,nacional
+5275,1,Noviembre,2019,Día de Todos los Santos,Teruel,Aragon,nacional
 5276,6,Diciembre,2019,Día de la Constitución Española,Teruel,Aragon,nacional
 5277,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Teruel,Aragon,regional
 5278,25,Diciembre,2019,Natividad del Señor,Teruel,Aragon,nacional
@@ -5429,7 +5429,7 @@
 5427,20,Junio,2019,Corpus Christi,Toledo,Castilla-La Mancha,regional
 5428,15,Agosto,2019,Asunción de la Virgen,Toledo,Castilla-La Mancha,nacional
 5429,12,Octubre,2019,Fiesta Nacional Española,Toledo,Castilla-La Mancha,nacional
-5430,1,Noviembre,2019,,Toledo,Castilla-La Mancha,nacional
+5430,1,Noviembre,2019,Día de Todos los Santos,Toledo,Castilla-La Mancha,nacional
 5431,6,Diciembre,2019,Día de la Constitución Española,Toledo,Castilla-La Mancha,nacional
 5432,25,Diciembre,2019,Natividad del Señor,Toledo,Castilla-La Mancha,nacional
 5433,1,Enero,2020,Año nuevo,Toledo,Castilla-La Mancha,nacional
@@ -5584,7 +5584,7 @@
 5582,15,Agosto,2019,Asunción de la Virgen,Valencia,Comunidad Valenciana,nacional
 5583,9,Octubre,2019,Día de la Comunitat Valenciana,Valencia,Comunidad Valenciana,regional
 5584,12,Octubre,2019,Fiesta Nacional Española,Valencia,Comunidad Valenciana,nacional
-5585,1,Noviembre,2019,,Valencia,Comunidad Valenciana,nacional
+5585,1,Noviembre,2019,Día de Todos los Santos,Valencia,Comunidad Valenciana,nacional
 5586,6,Diciembre,2019,Día de la Constitución Española,Valencia,Comunidad Valenciana,nacional
 5587,25,Diciembre,2019,Natividad del Señor,Valencia,Comunidad Valenciana,nacional
 5588,1,Enero,2020,Año nuevo,Valencia,Comunidad Valenciana,nacional
@@ -5737,7 +5737,7 @@
 5735,15,Agosto,2019,Asunción de la Virgen,Valladolid,Castilla y Leon,nacional
 5736,8,Septiembre,2019,Nuestra Sra. de San Lorenzo(se traslada al lunes),Valladolid,Castilla y Leon,local
 5737,12,Octubre,2019,Fiesta Nacional Española,Valladolid,Castilla y Leon,nacional
-5738,1,Noviembre,2019,,Valladolid,Castilla y Leon,nacional
+5738,1,Noviembre,2019,Día de Todos los Santos,Valladolid,Castilla y Leon,nacional
 5739,6,Diciembre,2019,Día de la Constitución Española,Valladolid,Castilla y Leon,nacional
 5740,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Valladolid,Castilla y Leon,regional
 5741,25,Diciembre,2019,Natividad del Señor,Valladolid,Castilla y Leon,nacional
@@ -5890,7 +5890,7 @@
 5888,31,Julio,2019,San Ignacio de Loiola,Vizcaya,Pais Vasco,local
 5889,15,Agosto,2019,Asunción de la Virgen,Vizcaya,Pais Vasco,nacional
 5890,12,Octubre,2019,Fiesta Nacional Española,Vizcaya,Pais Vasco,nacional
-5891,1,Noviembre,2019,,Vizcaya,Pais Vasco,nacional
+5891,1,Noviembre,2019,Día de Todos los Santos,Vizcaya,Pais Vasco,nacional
 5892,6,Diciembre,2019,Día de la Constitución Española,Vizcaya,Pais Vasco,nacional
 5893,25,Diciembre,2019,Natividad del Señor,Vizcaya,Pais Vasco,nacional
 5894,1,Enero,2020,Año nuevo,Vizcaya,Pais Vasco,nacional
@@ -6037,7 +6037,7 @@
 6035,29,Junio,2019,San Pedro,Zamora,Castilla y Leon,local
 6036,15,Agosto,2019,Asunción de la Virgen,Zamora,Castilla y Leon,nacional
 6037,12,Octubre,2019,Fiesta Nacional Española,Zamora,Castilla y Leon,nacional
-6038,1,Noviembre,2019,,Zamora,Castilla y Leon,nacional
+6038,1,Noviembre,2019,Día de Todos los Santos,Zamora,Castilla y Leon,nacional
 6039,6,Diciembre,2019,Día de la Constitución Española,Zamora,Castilla y Leon,nacional
 6040,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Zamora,Castilla y Leon,regional
 6041,25,Diciembre,2019,Natividad del Señor,Zamora,Castilla y Leon,nacional
@@ -6190,7 +6190,7 @@
 6188,1,Mayo,2019,Fiesta del Trabajo,Zaragoza,Aragon,nacional
 6189,15,Agosto,2019,Asunción de la Virgen,Zaragoza,Aragon,nacional
 6190,12,Octubre,2019,Fiesta Nacional Española,Zaragoza,Aragon,nacional
-6191,1,Noviembre,2019,,Zaragoza,Aragon,nacional
+6191,1,Noviembre,2019,Día de Todos los Santos,Zaragoza,Aragon,nacional
 6192,6,Diciembre,2019,Día de la Constitución Española,Zaragoza,Aragon,nacional
 6193,8,Diciembre,2019,Inmaculada Concepción(se traslada al lunes),Zaragoza,Aragon,regional
 6194,25,Diciembre,2019,Natividad del Señor,Zaragoza,Aragon,nacional
